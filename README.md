@@ -1,9 +1,7 @@
 # Advaced Python
 
-- Week 01: Shell
- -  [Webpage]: (https://swcarpentry.github.io/shell-novice/)
- -  [Notes]:
- -  [Homework]:
+Webpage Tutorials:
+- Week 01: [Shell](https://swcarpentry.github.io/shell-novice/)
 - Week 02: [Python Performance Tips](http://alberto.bietti.me/python-performance-tips/)
 - Week 03: [The itertools module](http://alberto.bietti.me/python-itertools/)
 - Week 04: [Python Performance Tuning](https://nyu-cds.github.io/python-performance-tuning/)
